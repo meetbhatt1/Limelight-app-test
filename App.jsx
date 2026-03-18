@@ -13,6 +13,8 @@ import { ThemeProvider } from "./src/context/ThemeContext";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Toast from 'react-native-toast-message';
 
+console.log("TESTING");
+
 // Hide splash screen immediately
 try {
   const SplashScreen = require('expo-splash-screen');
