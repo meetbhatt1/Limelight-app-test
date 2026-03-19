@@ -13,7 +13,7 @@ import { ThemeProvider } from "./src/context/ThemeContext";
 import { SafeAreaView } from "react-native-safe-area-context";
 import Toast from 'react-native-toast-message';
 
-console.log("TESTING");
+console.log("TESTING--1");
 
 // Hide splash screen immediately
 try {
